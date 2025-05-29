@@ -5,3 +5,5 @@ Type of #
 #### 4 asdasd
 ##### 5 asdasd
 ###### 6 asdasd
+Text: ![Image of Yaktocat](https:// octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
